@@ -1,4 +1,4 @@
-# Scan the latest pairs added on UniswapV3 using TheGraph in Google Sheets 
+# Example: Scan the latest pairs added on UniswapV3 using TheGraph in Google Sheets 
 [<img width="1381" alt="gif_uni" src="https://user-images.githubusercontent.com/53000607/133595220-6e918166-cfc9-4d9c-9b5b-5bc4395852ce.gif">](https://docs.google.com/spreadsheets/d/1tME9nMh79KzZP4Wmld7lezom6je4BOw_0T9ABf5GKXE/edit?usp=sharing)
 
 # Introduction
